@@ -52,7 +52,7 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/vansh-teotia-941419384
+- LinkedIn: www.linkedin.com/in/vanshteotia
 - Email: vanshteotia272005@gmail.com
 
 ---
