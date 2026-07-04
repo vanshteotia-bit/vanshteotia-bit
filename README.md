@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vansh Teotia</h1>
 
-<!--
-**vanshteotia-bit/vanshteotia-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Software Developer • Data Analyst • Industrial Engineering Student at MSRIT</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 B.E. in Industrial Engineering & Management @ MS Ramaiah Institute of Technology
+- 💻 Passionate about Software Development and Data Analytics
+- 🌱 Currently learning Data Structures & Algorithms
+- 📊 Interested in Backend Development, SQL and Power BI
+- 🤝 Treasurer at IEEE Sensors Council
+- 📍 Bengaluru, India
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+- Python
+- SQL
+- C++
+
+### Data Analytics
+- Power BI
+- Excel
+- Tableau
+
+### Databases
+- MySQL
+
+### Currently Learning
+- DSA
+- Git
+- GitHub
+- Flask
+
+---
+
+## 📂 Featured Projects
+
+🏥 Hospital Operation Theatre Scheduler
+
+📊 Sales Analytics Dashboard
+
+📚 Library Management System
+
+⚡ Python Automation Projects
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/vansh-teotia-941419384
+- Email: vanshteotia272005@gmail.com
+
+---
+
+⭐ Always learning. Always building.
