@@ -20,7 +20,6 @@ Name: Vansh Teotia
 Location: Bengaluru, India
 Education: B.E. Industrial Engineering & Management
 College: MS Ramaiah Institute of Technology
-CGPA: 7.7
 
 Interests:
   - Software Development
